@@ -1,6 +1,3 @@
----
-output:github_document
----
 
 ## Uploading the data and specifying the assay type
 
