@@ -1,7 +1,3 @@
----
-title: "10X processing data and data visualization"
-output: html_document
----
 
 ## Uploading the data and specifying the assay type
 
